@@ -23,9 +23,15 @@ Whatever approach you take is up to you. We do recommend one of the following ch
 
 ### What are we looking for?
 
+- Your approach to the test
 - An understanding of how REST APIs work, using:
   - Code that is simple to read and understand
   - Code that will work reliably
+- How you could improve your solution, given more time
+ 
+### How long should it take?
+
+- You can take as long as you need
 
 ### Useful Documentation
 
