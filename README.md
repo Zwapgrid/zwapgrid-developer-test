@@ -26,7 +26,6 @@ Whatever approach you take is up to you. We do recommend one of the following ch
 - An understanding of how REST APIs work, using:
   - Code that is simple to read and understand
   - Code that will work reliably
-  - Code that is properly tested
 
 ### Useful Documentation
 
