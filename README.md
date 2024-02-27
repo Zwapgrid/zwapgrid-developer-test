@@ -20,6 +20,7 @@ Whatever approach you take is up to you. We do recommend one of the following ch
 - C# Console Application
 - C# Web Application
 - React Application
+- NodeJS Application
 
 ### What are we looking for?
 
