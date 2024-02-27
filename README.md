@@ -33,6 +33,10 @@ Whatever approach you take is up to you. We do recommend one of the following ch
 
 - You can take as long as you need
 
+### How should I submit it?
+
+- Please create a private repository in Github, and send your solution to the hiring manager at Zwapgrid.
+
 ### Useful Documentation
 
 - Postman Specification: https://www.postman.com/zwapgrid/workspace/zwapgrid-api-1/overview 
